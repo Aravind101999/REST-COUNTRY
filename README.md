@@ -1,5 +1,5 @@
 # REST-COUNTRY(Async programming- : Promise)
-# Implement the rest countries and Open weather map APIs using fetch API. I Constraints:
+# Implement the rest countries using fetch API. I Constraints:
 # All your HTML elements should be created with DOM.
 • Use only fetch API to get both rest countries' data and open weather.
 • Pass the necessary value from the rest countries' API to openweathermap.org to get the current weather data of the selected country.
